@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmaFluent", "EmaFluent\EmaFluent.csproj", "{A2AE77A3-072C-4B0A-8AA4-A53EF070C245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmaFluent.IntegrateTest", "EmaFluent.IntegrateTest\EmaFluent.IntegrateTest.csproj", "{93D3AE86-3467-47AF-B996-1265A49B42D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmaFluentUnitTest", "EmaFluentUnitTest\EmaFluentUnitTest.csproj", "{B7538D3F-52BF-4BD4-B0D1-58B5BBC5C14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmaFluentNET4_5_1", "EmaFluentNET4_5_1\EmaFluentNET4_5_1.csproj", "{69CFD94A-426B-4311-B10B-7979DB72B204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmaFluent.RazorTemplateEngine", "EmaFluent.Razor\EmaFluent.RazorTemplateEngine.csproj", "{8D0F2FBB-4771-423F-A538-03A9BE1A6D9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmaFluent.RazorTemplateEngineUnitTest", "EmaFluent.RazorTemplateEngineUnitTest\EmaFluent.RazorTemplateEngineUnitTest.csproj", "{AEBC92BE-1E4B-4947-99D9-5C604ABF593C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs14
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EmaFluent\\EmaFluent.csproj
+		SccProjectName1 = EmaFluent
+		SccLocalPath1 = EmaFluent
+		SccProjectUniqueName2 = EmaFluent.IntegrateTest\\EmaFluent.IntegrateTest.csproj
+		SccProjectName2 = EmaFluent.IntegrateTest
+		SccLocalPath2 = EmaFluent.IntegrateTest
+		SccProjectUniqueName3 = EmaFluentUnitTest\\EmaFluentUnitTest.csproj
+		SccProjectName3 = EmaFluentUnitTest
+		SccLocalPath3 = EmaFluentUnitTest
+		SccProjectUniqueName4 = EmaFluentNET4_5_1\\EmaFluentNET4_5_1.csproj
+		SccProjectName4 = EmaFluentNET4_5_1
+		SccLocalPath4 = EmaFluentNET4_5_1
+		SccProjectUniqueName5 = EmaFluent.Razor\\EmaFluent.RazorTemplateEngine.csproj
+		SccProjectName5 = EmaFluent.Razor
+		SccLocalPath5 = EmaFluent.Razor
+		SccProjectUniqueName6 = EmaFluent.RazorTemplateEngineUnitTest\\EmaFluent.RazorTemplateEngineUnitTest.csproj
+		SccProjectName6 = EmaFluent.RazorTemplateEngineUnitTest
+		SccLocalPath6 = EmaFluent.RazorTemplateEngineUnitTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AE77A3-072C-4B0A-8AA4-A53EF070C245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AE77A3-072C-4B0A-8AA4-A53EF070C245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AE77A3-072C-4B0A-8AA4-A53EF070C245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AE77A3-072C-4B0A-8AA4-A53EF070C245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D3AE86-3467-47AF-B996-1265A49B42D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D3AE86-3467-47AF-B996-1265A49B42D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D3AE86-3467-47AF-B996-1265A49B42D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D3AE86-3467-47AF-B996-1265A49B42D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7538D3F-52BF-4BD4-B0D1-58B5BBC5C14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7538D3F-52BF-4BD4-B0D1-58B5BBC5C14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7538D3F-52BF-4BD4-B0D1-58B5BBC5C14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7538D3F-52BF-4BD4-B0D1-58B5BBC5C14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CFD94A-426B-4311-B10B-7979DB72B204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CFD94A-426B-4311-B10B-7979DB72B204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CFD94A-426B-4311-B10B-7979DB72B204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CFD94A-426B-4311-B10B-7979DB72B204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0F2FBB-4771-423F-A538-03A9BE1A6D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0F2FBB-4771-423F-A538-03A9BE1A6D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0F2FBB-4771-423F-A538-03A9BE1A6D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0F2FBB-4771-423F-A538-03A9BE1A6D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBC92BE-1E4B-4947-99D9-5C604ABF593C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBC92BE-1E4B-4947-99D9-5C604ABF593C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBC92BE-1E4B-4947-99D9-5C604ABF593C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBC92BE-1E4B-4947-99D9-5C604ABF593C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
