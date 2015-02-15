@@ -59,5 +59,5 @@ new DefaultEmaFluent ( new EmaFluentFactory () )
 
 ### You may install in nuget
 
-PM> Install-Package EmaFluent
-PM> Install-Package EmaFluent.RazorTemplateEngine
+#### PM> Install-Package EmaFluent
+#### PM> Install-Package EmaFluent.RazorTemplateEngine
